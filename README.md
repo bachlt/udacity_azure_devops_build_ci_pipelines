@@ -1,6 +1,12 @@
 
 # Building a CI/CD Pipeline
 
+## Architecture Diagram
+- Developer commit source code to github in feature branch.
+- Reviewer will merge commit to main branch.
+- Github action will be triggered to verify commit
+- Azure pipeline also be triggered to build source code to zip file and deploy to Azure App service.
+![Architecture Diagram](https://video.udacity-data.com/topher/2020/August/5f3447ab_cd-diagram/cd-diagram.png)
 
 ## Set Up Azure Cloud Shell
 - Create udacity account by clicking access lab OR use your own account
