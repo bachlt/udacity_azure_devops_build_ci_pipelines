@@ -1,7 +1,7 @@
 all: install lint test
 install:
 	pip install --upgrade pip &&\
-		pip install -r requirements.txt
+		pip install -r requirements-git.txt
 test:
 	python -m pytest -vv test_hello.py
 lint:
