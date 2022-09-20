@@ -9,6 +9,8 @@
 ![Architecture Diagram](https://video.udacity-data.com/topher/2020/August/5f3447ab_cd-diagram/cd-diagram.png)
 - A [Trello](https://trello.com/b/BHbvpAav/udacity-bachlt) board to manage task for member.
 - A [spreadsheet](project_schedule.xlsx) to manage project schedule.
+- A [Demo Youtube](https://youtu.be/k6yUoqCteqM) to demo our project.
+
 
 ## Set Up Azure Cloud Shell
 - Create udacity account by clicking access lab OR use your own account
