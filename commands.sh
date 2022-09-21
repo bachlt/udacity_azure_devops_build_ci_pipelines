@@ -1,0 +1,1 @@
+az webapp up -n udacity-bachlt-web -g Azuredevops
